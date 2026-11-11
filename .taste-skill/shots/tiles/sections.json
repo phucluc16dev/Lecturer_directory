@@ -1,0 +1,98 @@
+{
+ "url": "http://localhost:5500/",
+ "views": {
+  "desktop": {
+   "width": 1440,
+   "height": 900,
+   "navH": 72,
+   "scrollHeight": 900,
+   "screens": 1,
+   "sections": [
+    {
+     "n": 1,
+     "tag": "section",
+     "id": "",
+     "cls": "page-intro",
+     "top": 144,
+     "h": 174,
+     "hScreens": 0.19,
+     "offGrid": 174,
+     "tiles": [
+      {
+       "file": "desktop-sec-01-a.jpg",
+       "scrollY": 0,
+       "cutTop": 144,
+       "height": 174
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "tag": "section",
+     "id": "",
+     "cls": "data-panel",
+     "top": 366,
+     "h": 417,
+     "hScreens": 0.46,
+     "offGrid": 417,
+     "tiles": [
+      {
+       "file": "desktop-sec-02-a.jpg",
+       "scrollY": 0,
+       "cutTop": 366,
+       "height": 417
+      }
+     ]
+    }
+   ],
+   "consoleErrors": []
+  },
+  "mobile": {
+   "width": 390,
+   "height": 844,
+   "navH": 64,
+   "scrollHeight": 869,
+   "screens": 1.03,
+   "sections": [
+    {
+     "n": 1,
+     "tag": "section",
+     "id": "",
+     "cls": "page-intro",
+     "top": 104,
+     "h": 255,
+     "hScreens": 0.3,
+     "offGrid": 255,
+     "tiles": [
+      {
+       "file": "mobile-sec-01-a.jpg",
+       "scrollY": 25,
+       "cutTop": 79,
+       "height": 255
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "tag": "section",
+     "id": "",
+     "cls": "data-panel",
+     "top": 391,
+     "h": 382,
+     "hScreens": 0.45,
+     "offGrid": 382,
+     "tiles": [
+      {
+       "file": "mobile-sec-02-a.jpg",
+       "scrollY": 25,
+       "cutTop": 366,
+       "height": 382
+      }
+     ]
+    }
+   ],
+   "consoleErrors": []
+  }
+ },
+ "at": "2026-11-11T01:06:47.134Z"
+}
